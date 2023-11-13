@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+F:\KANE_DEVELOPMENT\vConsumable\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
